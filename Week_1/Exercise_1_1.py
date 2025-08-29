@@ -1,4 +1,4 @@
-# Example 1
+# Exersise 1.1
 #Functions:
 def Rectangle_Area(l, w): # Calculating area of rectangles
     length = l 
