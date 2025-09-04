@@ -1,5 +1,5 @@
 # Exercise 2.2
-# Input string with inconsistent spacing
+# Input string 
 data = "Name: Alice, Age: 30, City: Los Angeles | Name: Bob, Age: 25, City: Chicago | Name: Charlie , Age: 35, City: New York"
 
 # Step 1 Split the data for each person based on the pipe (|)
